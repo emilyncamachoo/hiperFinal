@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/inicio.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/datos.unity
+    guid: a807330db7f01fa4abb1835b31be564b
+  - enabled: 1
+    path: Assets/Scenes/video.unity
+    guid: c03f16957be838f48865ad93b3ebb23f
+  - enabled: 1
+    path: Assets/Scenes/experimenta.unity
+    guid: 773370f54a35aa64eb11284e53a1ce40
+  - enabled: 1
+    path: Assets/Scenes/derrameC.unity
+    guid: bd7a5f3c28dd2964e8bb94d919ae8f64
+  - enabled: 1
+    path: Assets/Scenes/inicioPreguntas.unity
+    guid: 485ecdd6bd9f29a42bac38810afbea17
+  - enabled: 1
+    path: Assets/Scenes/preguntas.unity
+    guid: 3a4f95140b2779e4fb2e2f663dc4f436
+  - enabled: 1
+    path: Assets/Scenes/preguntas2.unity
+    guid: 405d15b32ff9bfc4a8e0dfde148d3a3a
+  - enabled: 1
+    path: Assets/Scenes/preguntas3.unity
+    guid: f7592e5eb29791846bb9bd723fe53375
+  - enabled: 1
+    path: Assets/Scenes/preguntas4.unity
+    guid: 82c89d4eeeefe3f499ae03cb8d934ff5
+  - enabled: 1
+    path: Assets/Scenes/preguntas5.unity
+    guid: fda5165ede3d8484db14f22f6666844d
+  - enabled: 1
+    path: Assets/Scenes/preguntas6.unity
+    guid: 7d362096658195d4d85a0346b0389472
+  - enabled: 1
+    path: Assets/Scenes/preguntas7.unity
+    guid: 5b1f514bb2d73594bbaf0e6658e17f06
+  - enabled: 1
+    path: Assets/Scenes/preguntas8.unity
+    guid: b9af3f370e9c5564e818b8cfe1d61361
+  - enabled: 1
+    path: Assets/Scenes/preguntas9.unity
+    guid: 6428268fd908c2046ba56077327d3278
+  - enabled: 1
+    path: Assets/Scenes/preguntas10.unity
+    guid: fc90b92349849674b9b77c9cfbd45e74
+  - enabled: 1
+    path: Assets/Scenes/bien.unity
+    guid: 322a52bade96cbc4f83c47f06b08fb32
+  m_configObjects:
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: 3ec5c9e40ab02f2469551f5f64b1ab13,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f48167ca848e2714caef667cb79eb0ae,
+      type: 2}
